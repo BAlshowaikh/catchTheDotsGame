@@ -22,7 +22,7 @@ This project demonstrates DOM manipulation, event-driven logic, and interactive 
 * [General Assembly repository](https://github.com/SEB-PT-7-Bahrain/u1_hw_dots)
 
 ## 👩‍💻 Author
-This project is created by @@BAlshowaikh.<br>
+This project is created by @BAlshowaikh.<br>
 [LinkedIn](www.linkedin.com/in/batoolalshowaikh) | [GitHub](https://github.com/BAlshowaikh)
 
 
