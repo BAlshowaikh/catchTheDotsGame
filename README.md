@@ -14,9 +14,9 @@ This project demonstrates DOM manipulation, event-driven logic, and interactive 
 3. **Multiple levels:** Three levels with increasing difficulty and different scoring rules.
 
 ## 💻 How to run
-**Step 1:** Clone the repository and navigate to the starter folder.
-**Step 2:** Open index.html (or any level HTML file) in your browser.
-**Step 3:** Click the dots to earn points and reach the win score.
+1. **Step 1:** Clone the repository and navigate to the starter folder.
+2. **Step 2:** Open index.html (or any level HTML file) in your browser.
+3. **Step 3:** Click the dots to earn points and reach the win score.
 
 ## 🔗 Credits:
 * [General Assembly repository](https://github.com/SEB-PT-7-Bahrain/u1_hw_dots)
